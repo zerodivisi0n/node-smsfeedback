@@ -1,4 +1,4 @@
 node-smsfeedback
 ================
 
-SMSFeeback SMS message sender
+SMSFeedback message sender
