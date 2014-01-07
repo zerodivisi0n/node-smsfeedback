@@ -1,0 +1,26 @@
+{
+  "name": "node-smsfeedback",
+  "version": "0.0.0",
+  "description": "SMSFeedback message sender",
+  "main": "index.js",
+  "dependencies": {
+    "request": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zerodivisi0n/node-smsfeedback.git"
+  },
+  "keywords": [
+    "smsfeedback",
+    "sms"
+  ],
+  "author": "Alexey Zhuchkov <zer0divisi1@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zerodivisi0n/node-smsfeedback/issues"
+  },
+  "homepage": "https://github.com/zerodivisi0n/node-smsfeedback"
+}
